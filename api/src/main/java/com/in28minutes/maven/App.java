@@ -10,6 +10,8 @@ public class App
     {
         System.out.println( "Hello World Test My Code" );
         System.out.println( "My new Code" );
+        System.out.println( "Testing merge" );
+        
     }
 
 	public int calculateSomething() {
